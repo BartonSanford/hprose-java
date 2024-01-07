@@ -1,5 +1,5 @@
-/**********************************************************\
-|                                                          |
+/ *********************************************************\
+|!**                                                       |
 |                          hprose                          |
 |                                                          |
 | Official WebSite: http://www.hprose.com/                 |
@@ -39,3 +39,4 @@ public final class HproseWriter extends Writer {
         super(stream, mode, simple);
     }
 }
+ 
